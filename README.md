@@ -1,4 +1,6 @@
 # AseX-OS
+### 在此处讨论AseX！→[官方论坛](https://github.com/LetzCoding/AseX-OS/discussions)
+
 An OS made of python
 
 还是个垃圾项目，等着有时间改改
