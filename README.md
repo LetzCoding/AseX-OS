@@ -22,8 +22,10 @@ AseX OS 3.2
 AseX OS 3.1 更新内容：增加了文件操作、命令行选项。
 ```
 ### TODO
+- [x] 文件编辑支持
 - [ ] 图形化操作界面
 - [ ] 修复bug
 - [ ] 支持软件上传下载
+- [ ] 加入自制编程语言环境
 ### [官方论坛](https://github.com/LetzCoding/AseX-OS/discussions)
 作者：Hangco Studios(Hangco), 倾语Sprinkle(Sprinkle)
