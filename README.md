@@ -27,5 +27,6 @@ AseX OS 3.1 更新内容：增加了文件操作、命令行选项。
 - [ ] 修复bug
 - [ ] 支持软件上传下载
 - [ ] 加入自制编程语言环境
+- [ ] 完全支持Linux
 ### [官方论坛](https://github.com/LetzCoding/AseX-OS/discussions)
 作者：Hangco Studios(Hangco), 倾语Sprinkle(Sprinkle)
